@@ -1,0 +1,19 @@
+PART 1: MasterTheorem Solution
+
+
+a)T (n) = 3T (n/2) + n
+Sol: T(n) = Θ(n^log2 base3)
+
+b)T (n) = 64T (n/8) − n^2(log n)
+Sol: T(n) = Θ(n^2logn)
+
+c)T (n) = 2nT (n/2) + n^n
+Sol: T(n) = N/A as f(n) is not polynomial 
+
+d)T (n) = 3T (n/3) + n/2
+Sol: T(n) = Θ(nlogn)
+
+e)T (n) = 7T (n/3) + n^2
+Sol: T(n) = Θ(n^2)
+
+
